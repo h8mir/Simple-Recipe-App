@@ -1,0 +1,26 @@
+/*
+UYGULAMA PLANLAMASI
+Giriş ekranı: 
+Şifre ve kullanıcı adı sorulacak.
+
+Ana menü:
+Hoşgeldin kullanıcı adı olarak karşılanır. 
+kayıtlı tarif sayısı burda yazıcak
+alttan da diğer sayfalara geçiş seçenekleri eklenir
+seçenekler: anamenü, kayıtlı tariflerim, günün popüler tarifi, favoriler, ayarlar
+
+kayıtlı tariflerim:
+burda 2 tane kodda yazılı olan tarif olacak.
+yeni tarif ekleme için "+" butonu olcak ve yeni tarif eklenebilecek
+favoriye eklenebilmesi için tuş olucak
+
+günün popüler tarifi:
+burda apiden tarif çekicez ve sıralanacak
+bunu da favorilere ekleyebileceğiz
+
+favoriler:
+seçili olan tarifler burda sıralanacak
+
+ayarlar:
+tema seçimi
+kullanıcı çıkışı
