@@ -10,11 +10,11 @@ React Native öğrenme sürecimde geliştirdiğim; kullanıcı girişi, liste y�
 * **navigation:** Stack ve Tab navigasyon yapıları ile sayfalar arası geçiş.
 
 ## 📱 Ekran Görüntüleri
-<img width="1080" height="2400" alt="Screenshot_1771325747" src="https://github.com/user-attachments/assets/69d0edb8-428e-4415-9223-7b190789cfee" />
-<img width="1080" height="2400" alt="Screenshot_1771325776" src="https://github.com/user-attachments/assets/96ba6e9d-a1fd-4d7f-8254-01f3b560b69b" />
-<img width="1080" height="2400" alt="Screenshot_1771325774" src="https://github.com/user-attachments/assets/b60110c0-aac6-425d-b3ca-91a83c508474" />
-<img width="1080" height="2400" alt="Screenshot_1771325767" src="https://github.com/user-attachments/assets/d6b0c66f-0df6-40f5-8271-d9b5bb143b14" />
-<img width="1080" height="2400" alt="Screenshot_1771325763" src="https://github.com/user-attachments/assets/8a242158-ed69-417a-9cc0-cfb016f35cb7" />
+<img width="270" height="600" alt="Screenshot_1771325747" src="https://github.com/user-attachments/assets/69d0edb8-428e-4415-9223-7b190789cfee" />
+<img width="270" height="600" alt="Screenshot_1771325776" src="https://github.com/user-attachments/assets/96ba6e9d-a1fd-4d7f-8254-01f3b560b69b" />
+<img width="270" height="600" alt="Screenshot_1771325774" src="https://github.com/user-attachments/assets/b60110c0-aac6-425d-b3ca-91a83c508474" />
+<img width="270" height="600" alt="Screenshot_1771325767" src="https://github.com/user-attachments/assets/d6b0c66f-0df6-40f5-8271-d9b5bb143b14" />
+<img width="270" height="600" alt="Screenshot_1771325763" src="https://github.com/user-attachments/assets/8a242158-ed69-417a-9cc0-cfb016f35cb7" />
 
 
 ## 🛠️ Kullanılan Teknolojiler
